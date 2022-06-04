@@ -1,5 +1,11 @@
-Full name Mishakov Alexey Valeryevich
-Age 40
-Number of pets 12
-The future desired salary is $ 2000
+<root>
+  <NSF>
+    <name>Aleksey</name>
+    <surname>Mishakov</surname>
+    <father_name>Valeryevich</father_name>
+  </NSF>
+  <age>40</age>
+  <pets>12</pets>
+  <desired_salary>2000$</desired_salary>
+</root>
 

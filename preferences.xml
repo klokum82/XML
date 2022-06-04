@@ -1,5 +1,7 @@
-Favorite movie "Armor of God"
-Favorite TV series "Supernatural"
-Favorite food "Borsch"
-Favorite time of the year "Spring and Autumn"
-The country that the "USSR" would like to visit
+<root>
+  <fav_movie>Armor of God</fav_movie>
+  <fav_TVSHOW>Supernatural</fav_TVSHOW>
+  <fav_food>Borch</fav_food>
+  <fav_season>Spring and Autumn</fav_season>
+  <country_to_visit>USSR</country_to_visit>
+</root>
